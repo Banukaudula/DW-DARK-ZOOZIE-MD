@@ -1,5 +1,5 @@
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=#0000ff&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT"alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DW+DARK+ZOOZIE-MD"alt="">
 </p>
 <p align="center">
