@@ -21,7 +21,7 @@
 </p>
 <br>
 
-<b>Click And</b> - Fork👇
+<b>Click And</b> - Fork👇 Fork කරන්න ක්ලික් කරන්න 💓
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300" /></a>
@@ -31,7 +31,7 @@
 <br>
 
 
-<b>Click And</b> - Open Qr
+<b>Click And</b> - Open Qr👇 qr එක ගන්න ක්ලික් කරන්න🥰
 
 <p align="left">
 <a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Fork and deploy" height="100" width="300" /></a>
