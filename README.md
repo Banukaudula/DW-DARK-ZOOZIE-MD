@@ -20,6 +20,4 @@
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/blob/main/README.md/fork"><img align="center" src="
-https://telegra.ph/file/3cfc91cae282db352c156.jpg" alt="Fork and deploy" height="35" width="155" /></a>
-
-# 
+https://telegra.ph/file/3cfc91cae282db352c156.png" alt="Fork and deploy" height="40" width="200" /></a>
