@@ -22,7 +22,7 @@
 Click And</b> - Fork👇
 
 <p align="left">
-<a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/3cfc91cae282db352c156.jpg" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300" /></a>
 
 
 </p>
