@@ -15,18 +15,23 @@
 #### ```TOTAL PROFILE VIEWS ATHEX```
 ![Visitor Count](https://profile-counter.glitch.me/Athe45/count.svg)<h1>
 
+
 </p>
+<br>
 
 Click And</b> - Fork👇
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/3cfc91cae282db352c156.jpg" alt="Fork and deploy" height="35" width="155" /></a>
 
+
 </p>
+<br>
+
 
 Click And</b> - Open Qr
 
 <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/72a9ecc467b4141b7554a.jpg" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/72a9ecc467b4141b7554a.jpg" alt="Fork and deploy" height="40" width="155" /></a>
 
 # 
