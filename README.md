@@ -14,7 +14,7 @@
     
 #### ```TOTAL PROFILE VIEWS ATHEX```
 ![Visitor Count](https://profile-counter.glitch.me/Athe45/count.svg)<h1>
-<b>Thanks For</b> - All Dears🥰 
+<b>Click And</b> - Fork
 
 </p>
 
