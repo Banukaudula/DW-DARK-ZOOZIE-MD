@@ -13,7 +13,9 @@
 </p> 
     
 #### ```TOTAL PROFILE VIEWS ATHEX```
-![Visitor Count](https://profile-counter.glitch.me/Athe45/count.svg)<h1>
+![Visitor Count](https://profile-counter.glitch.me/Athe45/count.svg)
+
+
 
 
 </p>
