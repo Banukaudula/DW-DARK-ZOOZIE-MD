@@ -21,7 +21,7 @@
 </p>
 <br>
 
-Click And</b> - Fork👇
+<b>Click And</b> - Fork👇
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300" /></a>
@@ -31,7 +31,7 @@ Click And</b> - Fork👇
 <br>
 
 
-Click And</b> - Open Qr
+<b>Click And</b> - Open Qr
 
 <p align="left">
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Fork and deploy" height="100" width="300" /></a>
