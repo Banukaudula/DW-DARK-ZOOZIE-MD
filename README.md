@@ -32,6 +32,6 @@ Click And</b> - Fork👇
 Click And</b> - Open Qr
 
 <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/72a9ecc467b4141b7554a.jpg" alt="Fork and deploy" height="100" width="300" /></a>
+<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Fork and deploy" height="100" width="300" /></a>
 
 # 
