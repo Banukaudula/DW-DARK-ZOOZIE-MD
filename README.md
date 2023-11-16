@@ -5,6 +5,6 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/e9fd3932ed0b28ce2a892.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/b3e90870a4c8f0f22a1b0.jpg" width="300" height="300"/>
 </p><p align="center"> 
 <u>🔥 new vershion whatsap robot by darks wings team 🔥</u>
