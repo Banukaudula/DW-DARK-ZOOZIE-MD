@@ -9,7 +9,7 @@
 </p>
 <p align="center"> 
   <pre>
-      <h3 style="font-size:50%;text-align:center">🔥 new vershion whatsap robot by darks wings team 🔥 </h3>
+      <h3 style="font-size:50%;align="center"> ">🔥 new vershion whatsap robot by darks wings team 🔥 </h3>
   </pre>
 </p> 
     
