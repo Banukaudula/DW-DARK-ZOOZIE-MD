@@ -32,10 +32,10 @@
 <br>
 
 
-<h4 style="font-size:50%">Click And - qr එක ගන්න ක්ලික් කරන්න🥰
+<h4 style="font-size:50%">Click And - qr එක ගන්න ක්ලික් කරන්න🥰</h4>
 
 <p align="left">
-<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Fork and deploy" height="100" width="300" /></a>
+<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Open Qr" height="100" width="300" /></a>
 
 
 </p>
@@ -46,5 +46,9 @@
 
 
 <p align="left">
-<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/91b3f783b95935af423ff.jpg" alt="Fork and deploy" height="100" width="300" /></a>
+<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/91b3f783b95935af423ff.jpg" alt="deploy" height="100" width="300" /></a>
 
+<br>
+<br>
+
+<p style="font-size:70%";color:blue">Dark Zoozie යනු<br>අලුත් අප්ඩේට් වකට සෙට් වෙන්න හදපු වෙනස්ම විදිහේ රොබෝ ආකෘතියකි</p>
