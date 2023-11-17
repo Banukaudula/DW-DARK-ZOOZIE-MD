@@ -62,7 +62,7 @@ by darks wings team</pre>
 <ol>
 <h4 style="font-size=50%">DARK : NIRO  </h4>
 <h4 style="font-size=50%">DARK : ATHEX </h4>
-<h4 style="font-size=50%">DARK :HARSHA </h4>
+<h4 style="font-size=50%">DARK : HARSHA </h4>
 <h4 style="font-size=50%">DARK : GAYASHAN </h4>
 </ol>
 
