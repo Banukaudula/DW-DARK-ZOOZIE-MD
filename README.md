@@ -51,17 +51,17 @@
 
 <pre style="font-size:70px";color:blue">Dark Zoozie යනු<br>
 
-අලුත් අප්ඩේට් වකට සෙට් වෙන්න හදපු<br>වෙනස්ම විදිහේ රොබෝ ආකෘතියකි මෙය<br>ඔබට ඉතා පහසුවෙන් හසුරවන්න සහ<br>පහසුවෙන්ම active කරගන්නත් පුලුවන්.<br> 
+අලුත් අප්ඩේට් එකට සෙට් වෙන්න හදපු<br>වෙනස්ම විදිහේ රොබෝ ආකෘතියකි මෙය<br>ඔබට ඉතා පහසුවෙන් හසුරවන්න සහ<br>පහසුවෙන්ම active කරගන්නත් පුලුවන්.<br> 
 
 by darks wings team</pre>
 
 <h1 style="color:F70000">Main Helpers</h1>
 <b
 <ol>
-<h4 style="font-size=50%">DARK : NIRO  </h4>
-<h4 style="font-size=50%">DARK : ATHEX </h4>
-<h4 style="font-size=50%">DARK : HARSHA </h4>
-<h4 style="font-size=50%">DARK : GAYASHAN </h4>
-<h4 style="font-size=50%">DARK : SHANUU </h4>
+<h4 style="font-size=50%"><b>DARK : NIRO</b>  </h4>
+<h4 style="font-size=50%"><b>DARK : ATHEX </b></h4>
+<h4 style="font-size=50%"><b>DARK : HARSHA</b>> </h4>
+<h4 style="font-size=50%"><b>DARK : GAYASHAN</b>> </h4>
+<h4 style="font-size=50%"><b>DARK : SHANUU</b> </h4>
 </ol>
 
