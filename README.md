@@ -22,7 +22,7 @@
 </p>
 <br>
 
-<h4 style="font-size:50%;colour:red">Click And - Fork👇 Fork කරන්න ක්ලික් කරන්න 💓</h4>
+<h4 style="font-size:50%;colour:red">Click And - Fork කරන්න ක්ලික් කරන්න 💓</h4>
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300" /></a>
@@ -32,7 +32,7 @@
 <br>
 
 
-<b>Click And</b> - Open Qr👇 qr එක ගන්න ක්ලික් කරන්න🥰
+<h4 style="font-size:50%">Click And - qr එක ගන්න ක්ලික් කරන්න🥰
 
 <p align="left">
 <a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Fork and deploy" height="100" width="300" /></a>
@@ -42,7 +42,8 @@
 <br>
 
 
-<b>Click And</b> - Open Qr👇 qr එක ගන්න ක්ලික් කරන්න🥰
+<h4 style="fontsize:50%">Click And - deploy කරන්න ක්ලික් කරන්න🙈</h4>
+
 
 <p align="left">
 <a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/91b3f783b95935af423ff.jpg" alt="Fork and deploy" height="100" width="300" /></a>
