@@ -21,7 +21,7 @@
 </p>
 <br>
 
-<b>Click And</b> - Fork👇 Fork කරන්න ක්ලික් කරන්න 💓
+<h4 style="color:red";font-size="50%">Click And</b> - Fork👇 Fork කරන්න ක්ලික් කරන්න 💓
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300" /></a>
