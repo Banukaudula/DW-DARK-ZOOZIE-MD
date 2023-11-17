@@ -49,11 +49,11 @@
 <br>
 <br>
 
-<pre style="font-size:70px";color:blue">Dark Zoozie යනු<br>
+<pre style="font-size:70px";color:blue"><b>Dark Zoozie යනු</b><br>
 
 අලුත් අප්ඩේට් එකට සෙට් වෙන්න හදපු<br>වෙනස්ම විදිහේ රොබෝ ආකෘතියකි මෙය<br>ඔබට ඉතා පහසුවෙන් හසුරවන්න සහ<br>පහසුවෙන්ම active කරගන්නත් පුලුවන්.<br> 
 
-by darks wings team</pre>
+<b>by darks wings team</b></pre>
 
 <h1 style="color:F70000">Main Helpers</h1>
 <b
