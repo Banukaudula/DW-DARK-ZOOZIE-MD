@@ -8,9 +8,7 @@
 <img src="https://telegra.ph/file/b3e90870a4c8f0f22a1b0.jpg" width="400" height="400"/>
 </p>
 <p align="center"> 
-  <pre>
       <h3 style="font-size:50%;align="center"> ">🔥 new vershion whatsap robot by darks wings team 🔥 </h3>
-  </pre>
 </p> 
     
 #### ```TOTAL PROFILE VIEWS ATHEX```
