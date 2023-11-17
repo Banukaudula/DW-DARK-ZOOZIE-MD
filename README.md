@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/b3e90870a4c8f0f22a1b0.jpg" width="400" height="400"/>
 </p>
-<p align="center;color:red"> 
+<p align="center"> 
       <b>🔥 new vershion whatsap robot by darks wings team 🔥 </b>
 </p> 
     
