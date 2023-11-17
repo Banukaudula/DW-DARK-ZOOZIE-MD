@@ -60,8 +60,9 @@ by darks wings team</pre>
 <h1 style="color:F70000">Main Helpers</h1>
 <b
 <ol>
-<h4 style="font-size=50%">Niro Cr7 </h4>
-<h4 style="font-size=50%">ATHEX </h4>
-<h4 style="font-size=50%">Harsha </h4>
+<h4 style="font-size=50%">DARK : NIRO  </h4>
+<h4 style="font-size=50%">DARK : ATHEX </h4>
+<h4 style="font-size=50%">DARK :HARSHA </h4>
+<h4 style="font-size=50%">DARK : GAYASHAN </h4>
 </ol>
 
