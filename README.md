@@ -51,4 +51,8 @@
 <br>
 <br>
 
-<p style="font-size:70px";color:blue">Dark Zoozie යනු<br>අලුත් අප්ඩේට් වකට සෙට් වෙන්න හදපු<br>වෙනස්ම විදිහේ රොබෝ ආකෘතියකි මෙය ඔබට ඉතා පහසුවෙන් හසුන්න සහ<br>පහසුවෙන්ම active කරගන්නත් පුලුවන්.<br> by darks wings team</p>
+<pre style="font-size:70px";color:blue">Dark Zoozie යනු<br>
+
+අලුත් අප්ඩේට් වකට සෙට් වෙන්න හදපු<br>වෙනස්ම විදිහේ රොබෝ ආකෘතියකි මෙය ඔබට ඉතා පහසුවෙන් හසුන්න සහ<br>පහසුවෙන්ම active කරගන්නත් පුලුවන්.<br> 
+
+by darks wings team</pre>
