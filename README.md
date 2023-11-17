@@ -9,7 +9,7 @@
 </p>
 <p align="center"> 
   <pre>
-      <h3 style="font-size:50%">🔥 new vershion whatsap robot by darks wings team 🔥 </h3>
+      <h3 style="font-size:50%;text-align:center">🔥 new vershion whatsap robot by darks wings team 🔥 </h3>
   </pre>
 </p> 
     
@@ -22,7 +22,7 @@
 </p>
 <br>
 
-<h4 style="font-size:50%;colour:red;text-align:center">Click And - Fork කරන්න ක්ලික් කරන්න 💓</h4>
+<h4 style="font-size:50%;colour:red">Click And - Fork කරන්න ක්ලික් කරන්න 💓</h4>
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300" /></a>
