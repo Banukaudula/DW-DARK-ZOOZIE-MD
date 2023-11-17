@@ -36,4 +36,13 @@
 <p align="left">
 <a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Fork and deploy" height="100" width="300" /></a>
 
-# 
+
+</p>
+<br>
+
+
+<b>Click And</b> - Open Qr👇 qr එක ගන්න ක්ලික් කරන්න🥰
+
+<p align="left">
+<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/91b3f783b95935af423ff.jpg" alt="Fork and deploy" height="100" width="300" /></a>
+
