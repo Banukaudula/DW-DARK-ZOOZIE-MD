@@ -57,6 +57,6 @@
 
 by darks wings team</pre>
 
-<h1 style="color:red">Main Helpers</h1>
+<h1 style="color:F70000">Main Helpers</h1>
 
 
