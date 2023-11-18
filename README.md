@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300"> </a> <p align="right"> 
-      <b> පලවනියටම fork කරන්න <br>දෙවෙනියට Qr එක open කරන්න<br>අවසානෙටම deploy කරන්න<br><br>මේකෙ setting වෙනස් කරන්න යන්න එපා</b>
+  
 </p> 
     
 
