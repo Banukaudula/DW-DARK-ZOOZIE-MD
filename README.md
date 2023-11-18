@@ -60,8 +60,8 @@
 <ol>
 <h4 style="font-size=50%"><b>DARK : NIRO</b>  </h4>
 <h4 style="font-size=50%"><b>DARK : ATHEX </b></h4>
-<h4 style="font-size=50%"><b>DARK : HARSHA</b>> </h4>
-<h4 style="font-size=50%"><b>DARK : GAYASHAN</b>> </h4>
+<h4 style="font-size=50%"><b>DARK : HARSHA</b> </h4>
+<h4 style="font-size=50%"><b>DARK : GAYASHAN</b> </h4>
 <h4 style="font-size=50%"><b>DARK : SHANUU</b> </h4>
 </ol>
 
